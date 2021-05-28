@@ -1,0 +1,42 @@
+
+h1{/* Резюме */
+    margin-left:400px;
+    font-size:150%;
+}
+.BlockName{/*ФИО группа*/
+    margin-left: 250px;
+    font-size: 100%;
+    color: #37ca4b;
+    text-shadow: 0 0 20px #4d2ed8;
+    
+}
+.PositionButton{
+    font-size: 150%;
+    margin: auto;
+    position: fixed;
+    top: 200px;
+    left: 700px;
+}
+.Picture{
+    margin-left: 100px;
+    height: 300px;
+    width: 500px;;
+}
+.Text{/*Мои достжения*/
+    font-size: 200%;
+    width: auto;
+    background: #cc986e; /* Цвет фона */
+    border: 5px solid #30bf9b; /* Рамка */
+    border-radius: 15px; /* Радиус скругления */
+}
+.Text:hover{/*Изменение цвета текста при наведении*/
+    color:rgb(155, 22, 146);
+}
+.Border{
+    font-size: 150%;
+    height: 900px;
+    width: 1000px;
+    background: #ffffc5; /* Цвет фона */
+    border: 5px solid #bf5130; /* Рамка */
+    border-radius: 15px; /* Радиус скругления */
+}
